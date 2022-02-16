@@ -1,2 +1,3 @@
-# code-wars
-Kata solutions in code-wars
+# Code Wars - @byneur4l
+
+Kata solutions in code-wars 🚀
