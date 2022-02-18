@@ -1,0 +1,23 @@
+{
+  "name": "code-wars",
+  "version": "1.0.0",
+  "description": "Kata solutions in code-wars 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byneur4l/code-wars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byneur4l/code-wars/issues"
+  },
+  "homepage": "https://github.com/byneur4l/code-wars#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0"
+  }
+}
